@@ -32,3 +32,6 @@ DebugConfig
 *.__i
 *.i
 *.user
+
+# Codex analysis files
+.codex_analysis/
